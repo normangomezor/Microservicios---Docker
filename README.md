@@ -1,0 +1,2 @@
+Este proyecto implementa una arquitectura basada en **microservicios** usando **Spring Boot** y **PostgreSQL**.  
+Fue desarrollado como parte de una prueba técnica para demostrar conocimientos en diseño, desarrollo y despliegue de microservicios en contenedores Docker.
